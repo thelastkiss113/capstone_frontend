@@ -1,6 +1,9 @@
 export default function HomePage() {
     return (
         <main>
-            <h1>Home</h1>
+            <a href="/">Home</a>
+            <br />
+            <a href="/chats">Chats</a>
         </main>     
     )
+}
