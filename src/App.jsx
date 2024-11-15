@@ -1,6 +1,7 @@
 import{Routes,Route} from 'react-router-dom'
 import HomePage from './pages/HomePage'
 import NotFound from './pages/NotFound'
+import ChatsPage from './pages/ChatsPage'
 
 export default function App() {
   return (
